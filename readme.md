@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @NotReloads
-- 👀 FiveM Dev and a soon to become full stack developer :o
-- 🌱 I’m currently learning ReactJS and Java
-- 💞️ I’m looking to collaborate on a fivem framework :o ?
-- 📫 How to reach me >> dc - NotReload#0001
+## 🌎 NotReloads | reloud.
 
-<!---
-NotReloads/NotReloads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Github Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotReloads&show_icons=true&theme=omni&include_all_commits=true&locale=nl&count_private=true)
+<br>
+#### Discord Status
+[![Discord Presence](https://lanyard.cnrad.dev/api/754450830727315516?theme=dark)](https://discord.com/users/754450830727315516)
+<br>
+
+### Experience
+- 📝 FiveM - Lua, TS
+- 📝 Python, Node.js, HTML, CSS, PHP
+
+### FiveM | Experience
+- 📝 FiveM Dev / Designer
+- ⚠️ Frontend Developer - WIP
+- ⚠️ Backend Developer - WIP
+
+
+### Personal Information
+- 🏡 Live in England - Hull
+- 👀 Discord **@NotReload#9924**
+- 🔧 Development Site - unp-devs.tebex.io
