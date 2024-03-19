@@ -9,15 +9,14 @@
 
 ### Experience
 - 📝 FiveM - Lua, TS
-- 📝 Python, Node.js, HTML, CSS, PHP
+- 📝 Python, Node.js, HTML, CSS, PHP, React, Vue
 
 ### FiveM | Experience
-- 📝 FiveM Dev / Designer
-- ⚠️ Frontend Developer - WIP
-- ⚠️ Backend Developer - WIP
+- 📝 Backend / Frontend Developer
+- 🔧 Frontend Developer
+- 🔧 Backend Developer
 
 
 ### Personal Information
 - 🏡 Live in England - Hull
-- 👀 Discord **@NotReload#9924**
-- 🔧 Development Site - unp-devs.tebex.io
+- 👀 Discord **@relouds**
