@@ -1,7 +1,7 @@
 ## 🌎 NotReloads | reloud.
 
 #### Github Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotReloads&show_icons=true&theme=omni&include_all_commits=true&locale=nl&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotReloads&show_icons=true&theme=omni&include_all_commits=true&locale=en&count_private=true)
 <br>
 #### Discord Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/754450830727315516?theme=dark)](https://discord.com/users/658070190080393269)
